@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,php,laravel,linux,sql,vue,js,jquery)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,php,laravel,linux,mysql,vue,js,jquery)
 
 
 
